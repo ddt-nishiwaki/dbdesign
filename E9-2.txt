@@ -1,0 +1,39 @@
+実数のデータ型
+
+入れ子区間モデルの「左端」及び「右端」の列を実装するためのデータ型を、
+以下のDBMSの最新バージョンについて調べなさい。
+
+・Oracle
+・SQLServer
+・DB2
+・PostgleSQL
+・MySQL
+
+
+回答：
+
+・Oracle
+	REAL型
+	NUMBER型
+	BINARY_FLOAT型
+	BINARY_DOUBLE型
+
+・SQLServer
+	real型
+	decimal型
+	numeric型
+	float型
+
+・DB2
+	REAL型
+	DOUBLE型
+	FLOAT型
+
+・PostgleSQL
+	real型
+	double precision型
+
+・MySQL
+	FLOAT型
+	DOUBLE型
+	REAL型
